@@ -43,6 +43,3 @@ app.listen(process.env.PORT,()=>{
     console.log('connected to 8000')
 })
         
-
-//EXseiWuBVyjbLNRE
-//mongodb+srv://rabinmainali1999:EXseiWuBVyjbLNRE@cluster0.fddevxq.mongodb.net/?retryWrites=true&w=majority
